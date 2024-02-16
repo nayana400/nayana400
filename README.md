@@ -3,7 +3,9 @@
   I have recently certified in PG diploma in software Development.
 
 -🌱 My technical skills are C++, Java,Datastructure,Database Technologies,HTML and CSS,React.
+
 -💞Iam looking to collaborate on full Stack Software development.
+
 -🌱 How to reach me - nns400@gmail.com
 
 <!---
