@@ -4,6 +4,7 @@
 
 🌱 My technical skills are C++, Java,Datastructure,Database Technologies,HTML and CSS,React
   As a part of my PG DAC I have done  a Project.
+  
 💞Iam looking to collaborate on full Stack Software development
 🌱 How to reach me - nns400@gmail.com
 
