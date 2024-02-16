@@ -1,8 +1,8 @@
 - 👋 My name is Nayana
 - 👀 My educatinal qulification is MCA  and
-    I have recently certified in PG diploma in software Development
-  🌱 My technical skills are C++, Java,Datastructure,Database Technologies,HTML and CSS,React
-    As a part of my PG DAC I have done  a Project.
+  I have recently certified in PG diploma in software Development
+🌱 My technical skills are C++, Java,Datastructure,Database Technologies,HTML and CSS,React
+  As a part of my PG DAC I have done  a Project.
 💞Iam looking to collaborate on full Stack Software development
 🌱 How to reach me - nns400@gmail.com
 
