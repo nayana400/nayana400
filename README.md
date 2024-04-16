@@ -1,6 +1,6 @@
 - 👋 My name is Nayana
 - 👀 My educatinal qulification is MCA  and
-  I have recently certified in PG diploma in software Development.
+  I have recently certified in PG diploma in Advance Computing (Full stack web Development).
 
 -🌱 My technical skills are C++, Java,Datastructure,Database Technologies,HTML and CSS,React.
 
