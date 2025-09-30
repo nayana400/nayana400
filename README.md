@@ -1,9 +1,10 @@
 - 👋 My name is Nayana
 - 👀 My educatinal qulification is MCA  and
   I have recently certified in PG diploma in Advance Computing (Full stack web Development).
-
--🌱 My technical skills are C++, Java,Datastructure,Database Technologies,HTML and CSS,JavaScript,React.
-
+  
+-🌱 My technical skills are C++, Java,Datastructure,Database Technologies.
+    
+-🌱 Project Experience -HTML,CSS,Bootstrap,JavaScript,React,Node.js,Express.js,MongoDB
 -💞Iam looking to collaborate on full Stack Software development.
 
 -🌱 How to reach me - nns400@gmail.com
