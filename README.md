@@ -2,7 +2,7 @@
 - 👀 My educatinal qulification is MCA  and
   I have recently certified in PG diploma in Advance Computing (Full stack web Development).
 
--🌱 My technical skills are C++, Java,Datastructure,Database Technologies,HTML and CSS,React,Java Script.
+-🌱 My technical skills are C++, Java,Datastructure,Database Technologies,HTML and CSS,Java Script,React.
 
 -💞Iam looking to collaborate on full Stack Software development.
 
